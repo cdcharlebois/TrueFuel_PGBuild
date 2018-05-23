@@ -1,0 +1,12 @@
+{
+  "acceptance" : {
+    "name" : "TrueFuel",
+    "identifier" : "com.mendixcloud.truefuel",
+    "url" : "https://truefuel-accp.mendixcloud.com"
+  },
+  "production" : {
+    "name" : "TrueFuel",
+    "identifier" : "com.mendixcloud.truefuel",
+    "url" : "https://truefuel.mendixcloud.com"
+  }
+}

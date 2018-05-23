@@ -1,0 +1,26 @@
+{
+  "url" : "https://truefuel-accp.mendixcloud.com",
+  "identifier" : "com.mendixcloud.truefuel",
+  "version" : "0.0.20",
+  "name" : "TrueFuel",
+  "description" : null,
+  "iosEnabled" : true,
+  "androidEnabled" : true,
+  "requirePin" : false,
+  "enableOffline" : false,
+  "permissions" : {
+    "calendar" : false,
+    "camera" : false,
+    "photoLibrary" : false,
+    "contacts" : false,
+    "microphone" : false,
+    "geoLocation" : false,
+    "push" : true
+  },
+  "theme" : {
+    "background" : "#414141",
+    "text" : "#ffffff",
+    "button" : "#6db33f",
+    "buttonCaption" : "#ffffff"
+  }
+}
